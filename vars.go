@@ -16,7 +16,7 @@ func main(){
 	*c = *d
 	*d = 13
 
-	c = d
+	// c = d
 
 	*c = 14
 
